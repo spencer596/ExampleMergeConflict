@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="dc15d8ff-c80c-4498-a00e-f125664ff46a" name="Changes" comment="">
+=======
+    <list default="true" id="dc15d8ff-c80c-4498-a00e-f125664ff46a" name="Changes" comment="revision one (in master)">
+>>>>>>> branch-feature
       <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -43,6 +52,21 @@
       <option name="presentableId" value="Default" />
       <updated>1705781639522</updated>
     </task>
+    <task id="LOCAL-00001" summary="revision one (in master)">
+      <created>1705781686760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705781686760</updated>
+    </task>
+    <task id="LOCAL-00002" summary="revision one (in master)">
+      <created>1705781691849</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705781691849</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -55,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="revision one (in master)" />
+    <option name="LAST_COMMIT_MESSAGE" value="revision one (in master)" />
   </component>
 </project>
